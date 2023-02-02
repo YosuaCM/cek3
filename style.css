@@ -136,7 +136,7 @@
 .jumbotron .text h3::after{
 	content: '';
 	display: block;
-	border-right: 7px solid var(--lightpurple);
+	
 	width: 5px;
 }
 .jumbotron .sosial-media a{
@@ -401,7 +401,7 @@ footer{
 	.jumbotron .text h3::after{
 		content: '';
 		display: block;
-		border-right: 7px solid var(--lightpurple);
+		
 		width: 4%;
 	}
 	.jumbotron .sosial-media a{
